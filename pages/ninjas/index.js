@@ -2,7 +2,6 @@
 // so what will renderin folder injas will index
 
 
-
 function Ninjas(){
 
     return (
